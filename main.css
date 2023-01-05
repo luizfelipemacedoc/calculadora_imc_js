@@ -20,7 +20,7 @@ body {
     margin: auto;
 }
 /*estilizar botão*/
-.botão {
+#botão {
     background-color: #14bd5a;
     border-collapse: collapse;
     color: black;
@@ -29,7 +29,7 @@ body {
     cursor: pointer;
     padding: 10px;
 }
-.botão:active {
+#botão:active {
     box-shadow: 0 5px #666;
     transform: translateY(4px);
     background-color: #3e8e41;
